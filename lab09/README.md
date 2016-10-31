@@ -1,4 +1,4 @@
-# Stat 159  Lab 2
+# Stat 159  Lab 09
 ### Steven Chen 23394608
 
 This homework assignment performs a simple linear regression on the relationship between **TV** advertising budget and **Sales**. Follow the following instructions to replicate the results:
